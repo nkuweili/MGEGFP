@@ -23,4 +23,4 @@ cd MGEGFP/
 
 
 
-[workflow]:https://github.com/nkuweili/MGEGFP/blob/main/workflow.png
+[workflow]:https://github.com/nkuweili/MGEGFP/blob/main/workflow.jpg
